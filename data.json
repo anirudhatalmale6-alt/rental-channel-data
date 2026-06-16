@@ -346,7 +346,7 @@
       ]
     },
     {
-      "id": "257b8e42-d156-4886-a286-6d8943454454",
+      "id": "bbdc03a8-00c1-4092-ba7b-f32ba9d9001d",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Simeon",
@@ -359,10 +359,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-f5c0bb87-c80e-4594-bc2e-625bfb1c6fe8",
-      "lastSynced": "2026-06-09T18:00:26.638Z"
+      "lastSynced": "2026-06-16T15:27:17.556Z"
     },
     {
-      "id": "ffc06cee-0084-4e3b-8aca-66db2c9d8317",
+      "id": "a5e22775-e64e-49e4-8cf5-bfb9bee376ec",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Jutta",
@@ -375,10 +375,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-058af166-ce91-4e73-b544-03c60a4d424e",
-      "lastSynced": "2026-06-09T18:00:26.638Z"
+      "lastSynced": "2026-06-16T15:27:17.556Z"
     },
     {
-      "id": "a32d7506-79ab-4930-a6d1-466cbe767c37",
+      "id": "6143add8-975f-41dc-bb32-587fd44519a6",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Florence",
@@ -391,10 +391,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-4ca685c1-8f6e-4dae-b0e6-061ec30c5736",
-      "lastSynced": "2026-06-09T18:00:26.638Z"
+      "lastSynced": "2026-06-16T15:27:17.556Z"
     },
     {
-      "id": "1050fe1e-a812-4e13-9bda-da9918efd8c6",
+      "id": "e15c6a08-9b08-4934-abeb-18e48e875fe5",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -407,10 +407,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-20212cc8-086f-43f1-a51f-21e000cd0673",
-      "lastSynced": "2026-06-09T18:00:26.638Z"
+      "lastSynced": "2026-06-16T15:27:17.556Z"
     },
     {
-      "id": "94473b7e-3385-4f2c-8d43-d601870d4d83",
+      "id": "3b319497-316b-447b-904a-e511355a565f",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -423,10 +423,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-59400cab-adb8-450f-8ee3-e5af48f6db2a",
-      "lastSynced": "2026-06-09T18:00:26.638Z"
+      "lastSynced": "2026-06-16T15:27:17.557Z"
     },
     {
-      "id": "09706d4c-247e-48e9-a041-5a482ff6f0fc",
+      "id": "b04b6d45-7b61-4496-b1b6-79d954688f90",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "",
@@ -439,10 +439,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-c27fca25-af8b-462c-aaa5-ed1c9b3e3cd9",
-      "lastSynced": "2026-06-09T18:00:28.274Z"
+      "lastSynced": "2026-06-16T15:27:19.397Z"
     },
     {
-      "id": "5c6eca19-e58b-47dc-9dfe-2037074bef81",
+      "id": "c09ac956-f4cb-44b0-91e8-7b71f44181e4",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Friederike",
@@ -455,10 +455,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b3eed9f-a8da-4eee-9e2c-ff98bc6e86e0",
-      "lastSynced": "2026-06-09T18:00:28.274Z"
+      "lastSynced": "2026-06-16T15:27:19.397Z"
     },
     {
-      "id": "4cfe76c6-1377-4999-813b-12ccc6fbf160",
+      "id": "a00fe637-bc6c-430a-8fdc-63e817f5a303",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Christel",
@@ -471,10 +471,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-54edffeb-699b-4f69-ba07-d3688c4af741",
-      "lastSynced": "2026-06-09T18:00:28.274Z"
+      "lastSynced": "2026-06-16T15:27:19.397Z"
     },
     {
-      "id": "ab8ce6cd-6e2a-4267-b731-d4b98b0e8cb8",
+      "id": "f25fa963-5a03-4b3e-8cab-2fe2b83e552c",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Wolfram",
@@ -487,10 +487,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b248888-44b3-45b3-bbc0-a6132cb923df",
-      "lastSynced": "2026-06-09T18:00:28.274Z"
+      "lastSynced": "2026-06-16T15:27:19.397Z"
     },
     {
-      "id": "d5bf451e-4ade-44e5-b5ce-62e5fd1926da",
+      "id": "de884a89-d3f2-444d-9e49-6da3d9e92324",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Dagmar",
@@ -503,26 +503,26 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-91ab3f29-e760-49c6-9e56-640df0728c37",
-      "lastSynced": "2026-06-09T18:00:28.274Z"
+      "lastSynced": "2026-06-16T15:27:19.397Z"
     },
     {
-      "id": "2a7972d2-c26d-40b8-b82d-3dac044aa9c1",
+      "id": "a6370edb-f8aa-4a2f-b1aa-583d5b0d2084",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Airbnb (Not available)",
-      "checkIn": "2026-06-09",
-      "checkOut": "2026-06-10",
+      "checkIn": "2026-06-16",
+      "checkOut": "2026-06-17",
       "adults": 0,
       "children": 0,
       "income": 0,
       "currency": "EUR",
       "channel": "airbnb",
       "status": "blocked",
-      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-942468ef45d6f3cd2262bc9fed3fd284@airbnb.com",
-      "lastSynced": "2026-06-09T18:00:29.407Z"
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-f00c125bd8e10e6ae40bdb4b36959346@airbnb.com",
+      "lastSynced": "2026-06-16T15:27:20.217Z"
     },
     {
-      "id": "79d91b81-9ea3-4a7f-88db-cc66a441726f",
+      "id": "02810208-4384-4b5a-a38b-ecd231d34277",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - paul",
@@ -535,10 +535,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-9093c437-fc86-437d-a847-d666b1217615",
-      "lastSynced": "2026-06-09T18:00:30.234Z"
+      "lastSynced": "2026-06-16T15:27:20.627Z"
     },
     {
-      "id": "00f70061-e694-406b-8ad8-644c3d7e7c41",
+      "id": "d17bbdf2-76fc-44af-b6f8-66dea9e6990f",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -551,10 +551,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-b0582ca4-f06e-49f8-8898-53a2a11472a3",
-      "lastSynced": "2026-06-09T18:00:30.234Z"
+      "lastSynced": "2026-06-16T15:27:20.627Z"
     },
     {
-      "id": "96d599da-75ee-4b21-9c22-d71c295223ef",
+      "id": "1d9739e3-c078-4909-a19a-e9ba73cdce26",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - Barbara",
@@ -567,10 +567,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-47ff7ec1-8d19-4c73-9cbf-6857d129b5d9",
-      "lastSynced": "2026-06-09T18:00:30.234Z"
+      "lastSynced": "2026-06-16T15:27:20.627Z"
     },
     {
-      "id": "cd990777-d741-443a-9336-4cd45b90d555",
+      "id": "edb6315b-8a29-49d2-a315-9d127b7e4f06",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -583,7 +583,7 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-80679c27-ff50-4dca-8e1d-4d3aab30cb97",
-      "lastSynced": "2026-06-09T18:00:30.234Z"
+      "lastSynced": "2026-06-16T15:27:20.627Z"
     }
   ],
   "blockedDates": [
@@ -616,5 +616,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-06-16T15:27:13.968Z"
+  "lastUpdated": "2026-06-16T15:27:23.931Z"
 }
