@@ -1,1 +1,11 @@
-{"properties":[],"bookings":[],"blockedDates":[],"lastUpdated":""}
+{
+  "properties": [
+    {
+      "id": "test-prop",
+      "name": "Test"
+    }
+  ],
+  "bookings": [],
+  "blockedDates": [],
+  "lastUpdated": "2026-06-16T08:54:07.971Z"
+}
