@@ -50,12 +50,12 @@
       "channel": "manual",
       "status": "confirmed",
       "uid": "manual-7bc4f717-abcc-4fd9-897a-0b5fda855561",
-      "email": "terrones.valerie@gmail.com",
+      "email": "terrones.valerie",
       "phone": "",
       "lastSynced": "2026-03-20T18:11:20.058Z",
       "checklist": [
         {
-          "label": "contrat+ courrier+466€",
+          "label": "contrat+ courrier",
           "checked": true
         }
       ]
@@ -286,10 +286,6 @@
         {
           "label": "contrat-courrier-infos",
           "checked": true
-        },
-        {
-          "label": "Vir 90€",
-          "checked": true
         }
       ]
     },
@@ -309,44 +305,10 @@
       "uid": "manual-c33648d0-6ae5-433c-9f3d-7bd9126ecb96",
       "email": "gilles-90@orange.fr",
       "phone": "+33637920491",
-      "lastSynced": "2026-05-30T09:03:24.956Z",
-      "checklist": [
-        {
-          "label": "Contrat, courrier, infos, ",
-          "checked": true
-        },
-        {
-          "label": "Reçu vir 100",
-          "checked": true
-        }
-      ]
+      "lastSynced": "2026-05-30T09:03:24.956Z"
     },
     {
-      "id": "500f57cd-a81a-44d1-8ae1-4ba340d76d5e",
-      "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
-      "propertyName": "PM1",
-      "guestName": "Michel Pommier",
-      "checkIn": "2026-07-11",
-      "checkOut": "2026-07-25",
-      "adults": 2,
-      "children": 0,
-      "income": 1230,
-      "currency": "EUR",
-      "channel": "manual",
-      "status": "confirmed",
-      "uid": "manual-500f57cd-a81a-44d1-8ae1-4ba340d76d5e",
-      "email": "cmipom20@orange.fr",
-      "phone": "+33751687883",
-      "lastSynced": "2026-06-09T16:55:38.973Z",
-      "checklist": [
-        {
-          "label": "Courrier, contrat, info",
-          "checked": true
-        }
-      ]
-    },
-    {
-      "id": "bbdc03a8-00c1-4092-ba7b-f32ba9d9001d",
+      "id": "e5f1924e-d034-4585-a771-451a1ba13520",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Simeon",
@@ -359,10 +321,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-f5c0bb87-c80e-4594-bc2e-625bfb1c6fe8",
-      "lastSynced": "2026-06-16T15:27:17.556Z"
+      "lastSynced": "2026-05-30T09:08:59.128Z"
     },
     {
-      "id": "a5e22775-e64e-49e4-8cf5-bfb9bee376ec",
+      "id": "0cf377ff-7ce4-4433-a046-8bb4d800f8b4",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Jutta",
@@ -375,10 +337,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-058af166-ce91-4e73-b544-03c60a4d424e",
-      "lastSynced": "2026-06-16T15:27:17.556Z"
+      "lastSynced": "2026-05-30T09:08:59.128Z"
     },
     {
-      "id": "6143add8-975f-41dc-bb32-587fd44519a6",
+      "id": "a35b188c-e73c-4ff0-9012-cb7f5e6b9a7e",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Florence",
@@ -391,10 +353,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-4ca685c1-8f6e-4dae-b0e6-061ec30c5736",
-      "lastSynced": "2026-06-16T15:27:17.556Z"
+      "lastSynced": "2026-05-30T09:08:59.128Z"
     },
     {
-      "id": "e15c6a08-9b08-4934-abeb-18e48e875fe5",
+      "id": "7a3daf4c-bf5d-4612-9e63-b05f63bffa61",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -407,10 +369,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-20212cc8-086f-43f1-a51f-21e000cd0673",
-      "lastSynced": "2026-06-16T15:27:17.556Z"
+      "lastSynced": "2026-05-30T09:08:59.128Z"
     },
     {
-      "id": "3b319497-316b-447b-904a-e511355a565f",
+      "id": "cc4cb6b3-4931-4370-8752-3035fddfb023",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -423,10 +385,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-59400cab-adb8-450f-8ee3-e5af48f6db2a",
-      "lastSynced": "2026-06-16T15:27:17.557Z"
+      "lastSynced": "2026-05-30T09:08:59.128Z"
     },
     {
-      "id": "b04b6d45-7b61-4496-b1b6-79d954688f90",
+      "id": "3c179ed5-3b0c-46b6-b8de-1b7123b767d6",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "",
@@ -439,10 +401,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-c27fca25-af8b-462c-aaa5-ed1c9b3e3cd9",
-      "lastSynced": "2026-06-16T15:27:19.397Z"
+      "lastSynced": "2026-05-30T09:09:00.254Z"
     },
     {
-      "id": "c09ac956-f4cb-44b0-91e8-7b71f44181e4",
+      "id": "8f5118e9-d34d-4c0b-942c-9134e760e565",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Friederike",
@@ -455,10 +417,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b3eed9f-a8da-4eee-9e2c-ff98bc6e86e0",
-      "lastSynced": "2026-06-16T15:27:19.397Z"
+      "lastSynced": "2026-05-30T09:09:00.254Z"
     },
     {
-      "id": "a00fe637-bc6c-430a-8fdc-63e817f5a303",
+      "id": "994d5531-c216-43b0-80ba-b391a6fddc42",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Christel",
@@ -471,10 +433,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-54edffeb-699b-4f69-ba07-d3688c4af741",
-      "lastSynced": "2026-06-16T15:27:19.397Z"
+      "lastSynced": "2026-05-30T09:09:00.254Z"
     },
     {
-      "id": "f25fa963-5a03-4b3e-8cab-2fe2b83e552c",
+      "id": "eb18dd96-306e-43a6-aca1-eb93ef5c139e",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Wolfram",
@@ -487,10 +449,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b248888-44b3-45b3-bbc0-a6132cb923df",
-      "lastSynced": "2026-06-16T15:27:19.397Z"
+      "lastSynced": "2026-05-30T09:09:00.254Z"
     },
     {
-      "id": "de884a89-d3f2-444d-9e49-6da3d9e92324",
+      "id": "eb5e482d-20c4-4679-9230-33a79cb24229",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Dagmar",
@@ -503,26 +465,26 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-91ab3f29-e760-49c6-9e56-640df0728c37",
-      "lastSynced": "2026-06-16T15:27:19.397Z"
+      "lastSynced": "2026-05-30T09:09:00.254Z"
     },
     {
-      "id": "a6370edb-f8aa-4a2f-b1aa-583d5b0d2084",
+      "id": "0f1c6ddf-2667-433d-9753-86a8a4a5a8ed",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Airbnb (Not available)",
-      "checkIn": "2026-06-16",
-      "checkOut": "2026-06-17",
+      "checkIn": "2026-05-30",
+      "checkOut": "2026-05-31",
       "adults": 0,
       "children": 0,
       "income": 0,
       "currency": "EUR",
       "channel": "airbnb",
       "status": "blocked",
-      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-f00c125bd8e10e6ae40bdb4b36959346@airbnb.com",
-      "lastSynced": "2026-06-16T15:27:20.217Z"
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-263923f689a5281211f4167be855e1cf@airbnb.com",
+      "lastSynced": "2026-05-30T09:09:00.844Z"
     },
     {
-      "id": "02810208-4384-4b5a-a38b-ecd231d34277",
+      "id": "b6ef8ad5-4d82-40ae-ba55-64a589dde52d",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - paul",
@@ -535,10 +497,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-9093c437-fc86-437d-a847-d666b1217615",
-      "lastSynced": "2026-06-16T15:27:20.627Z"
+      "lastSynced": "2026-05-30T09:09:01.147Z"
     },
     {
-      "id": "d17bbdf2-76fc-44af-b6f8-66dea9e6990f",
+      "id": "b4a38225-a795-47f8-bc2f-01c0a1aa541b",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -551,10 +513,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-b0582ca4-f06e-49f8-8898-53a2a11472a3",
-      "lastSynced": "2026-06-16T15:27:20.627Z"
+      "lastSynced": "2026-05-30T09:09:01.147Z"
     },
     {
-      "id": "1d9739e3-c078-4909-a19a-e9ba73cdce26",
+      "id": "b7392ebc-8d6c-4aa5-b7a8-36b34cdedc80",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - Barbara",
@@ -567,10 +529,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-47ff7ec1-8d19-4c73-9cbf-6857d129b5d9",
-      "lastSynced": "2026-06-16T15:27:20.627Z"
+      "lastSynced": "2026-05-30T09:09:01.147Z"
     },
     {
-      "id": "edb6315b-8a29-49d2-a315-9d127b7e4f06",
+      "id": "9500c8d4-98f7-4f41-8735-960255bf1fe1",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -583,7 +545,26 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-80679c27-ff50-4dca-8e1d-4d3aab30cb97",
-      "lastSynced": "2026-06-16T15:27:20.627Z"
+      "lastSynced": "2026-05-30T09:09:01.147Z"
+    },
+    {
+      "id": "500f57cd-a81a-44d1-8ae1-4ba340d76d5e",
+      "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
+      "propertyName": "PM1",
+      "guestName": "Michel Pommier",
+      "checkIn": "2026-07-11",
+      "checkOut": "2026-07-25",
+      "adults": 2,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-500f57cd-a81a-44d1-8ae1-4ba340d76d5e",
+      "email": "cmipom20@orange.fr",
+      "phone": "+33751687883",
+      "lastSynced": "2026-06-09T16:55:38.973Z",
+      "checklist": []
     }
   ],
   "blockedDates": [
@@ -616,5 +597,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-06-16T15:27:23.931Z"
+  "lastUpdated": "2026-06-16T17:07:36.934Z"
 }
