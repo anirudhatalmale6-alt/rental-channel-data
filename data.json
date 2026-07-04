@@ -50,12 +50,12 @@
       "channel": "manual",
       "status": "confirmed",
       "uid": "manual-7bc4f717-abcc-4fd9-897a-0b5fda855561",
-      "email": "terrones.valerie",
+      "email": "terrones.valerie@gmail.com",
       "phone": "",
       "lastSynced": "2026-03-20T18:11:20.058Z",
       "checklist": [
         {
-          "label": "contrat+ courrier",
+          "label": "contrat+ courrier+466€",
           "checked": true
         }
       ]
@@ -286,6 +286,10 @@
         {
           "label": "contrat-courrier-infos",
           "checked": true
+        },
+        {
+          "label": "Vir 90€",
+          "checked": true
         }
       ]
     },
@@ -305,7 +309,17 @@
       "uid": "manual-c33648d0-6ae5-433c-9f3d-7bd9126ecb96",
       "email": "gilles-90@orange.fr",
       "phone": "+33637920491",
-      "lastSynced": "2026-05-30T09:03:24.956Z"
+      "lastSynced": "2026-05-30T09:03:24.956Z",
+      "checklist": [
+        {
+          "label": "Contrat, courrier, infos, ",
+          "checked": true
+        },
+        {
+          "label": "Reçu vir 100",
+          "checked": true
+        }
+      ]
     },
     {
       "id": "e5f1924e-d034-4585-a771-451a1ba13520",
@@ -556,7 +570,7 @@
       "checkOut": "2026-07-25",
       "adults": 2,
       "children": 0,
-      "income": 0,
+      "income": 1230,
       "currency": "EUR",
       "channel": "manual",
       "status": "confirmed",
@@ -564,7 +578,78 @@
       "email": "cmipom20@orange.fr",
       "phone": "+33751687883",
       "lastSynced": "2026-06-09T16:55:38.973Z",
-      "checklist": []
+      "checklist": [
+        {
+          "label": "Courrier, contrat, info",
+          "checked": true
+        }
+      ]
+    },
+    {
+      "id": "64c8096b-96ad-4715-a26e-3f37180e644f",
+      "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
+      "propertyName": "PM1",
+      "guestName": "Reserved",
+      "checkIn": "2026-08-09",
+      "checkOut": "2026-08-13",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "confirmed",
+      "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-1418fb94e984-3938632ed2e795874f3ebd6a880631a9@airbnb.com",
+      "lastSynced": "2026-06-24T19:55:20.538Z"
+    },
+    {
+      "id": "b6de7dad-89d4-45bc-8ead-83ab2ccf847b",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2028-06-16",
+      "checkOut": "2028-06-23",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-e7cbcf5a-dc1c-45e3-b2dc-d04e81e9f04e",
+      "lastSynced": "2026-06-24T19:55:23.102Z"
+    },
+    {
+      "id": "099e4291-88ed-4ec8-b5ea-d64a7c3c3086",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-06-24",
+      "checkOut": "2026-06-25",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "blocked",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-03fbce00745f7e7e857117fb16da743d@airbnb.com",
+      "lastSynced": "2026-06-24T19:55:23.824Z"
+    },
+    {
+      "id": "6b558280-2380-4397-ae87-87c10a109ca0",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Guest",
+      "checkIn": "2026-08-18",
+      "checkOut": "2026-08-25",
+      "adults": 2,
+      "children": 3,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-6b558280-2380-4397-ae87-87c10a109ca0",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-07-04T10:42:16.618Z"
     }
   ],
   "blockedDates": [
@@ -597,5 +682,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-06-16T17:07:36.934Z"
+  "lastUpdated": "2026-07-04T10:42:19.637Z"
 }
