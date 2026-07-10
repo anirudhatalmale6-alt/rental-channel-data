@@ -163,7 +163,8 @@
           "checked": true
         }
       ],
-      "email": "britta.groene@web.de"
+      "email": "britta.groene@web.de",
+      "phone": "+49 1762 3730024"
     },
     {
       "id": "676613e2-9875-430e-bf7b-057909f66bd5",
@@ -682,5 +683,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-04T10:42:19.637Z"
+  "lastUpdated": "2026-07-10T10:10:30.240Z"
 }
