@@ -587,17 +587,20 @@
       "id": "64c8096b-96ad-4715-a26e-3f37180e644f",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
-      "guestName": "Reserved",
+      "guestName": "Jose Luis Sanchez",
       "checkIn": "2026-08-09",
       "checkOut": "2026-08-13",
-      "adults": 0,
+      "adults": 2,
       "children": 0,
       "income": 0,
       "currency": "EUR",
       "channel": "airbnb",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-1418fb94e984-3938632ed2e795874f3ebd6a880631a9@airbnb.com",
-      "lastSynced": "2026-06-24T19:55:20.538Z"
+      "lastSynced": "2026-06-24T19:55:20.538Z",
+      "email": "",
+      "phone": "‪+33 7 67 48 43 01‬",
+      "checklist": []
     },
     {
       "id": "b6de7dad-89d4-45bc-8ead-83ab2ccf847b",
@@ -680,5 +683,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-17T17:30:04.499Z"
+  "lastUpdated": "2026-07-17T17:42:28.792Z"
 }
