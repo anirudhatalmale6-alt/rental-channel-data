@@ -50,12 +50,12 @@
       "channel": "manual",
       "status": "confirmed",
       "uid": "manual-7bc4f717-abcc-4fd9-897a-0b5fda855561",
-      "email": "terrones.valerie",
+      "email": "terrones.valerie@gmail.com",
       "phone": "",
       "lastSynced": "2026-03-20T18:11:20.058Z",
       "checklist": [
         {
-          "label": "contrat+ courrier",
+          "label": "contrat+ courrier+466€",
           "checked": true
         }
       ]
@@ -287,6 +287,10 @@
       "checklist": [
         {
           "label": "contrat-courrier-infos",
+          "checked": true
+        },
+        {
+          "label": "Vir 90€",
           "checked": true
         }
       ]
@@ -683,5 +687,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-17T17:42:28.792Z"
+  "lastUpdated": "2026-07-19T12:18:34.031Z"
 }
