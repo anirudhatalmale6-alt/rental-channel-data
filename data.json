@@ -60,7 +60,7 @@
         },
         {
           "label": "699 a devoir",
-          "checked": false
+          "checked": true
         }
       ]
     },
@@ -645,6 +645,54 @@
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-03fbce00745f7e7e857117fb16da743d@airbnb.com",
       "lastSynced": "2026-06-24T19:55:23.824Z"
+    },
+    {
+      "id": "c514e030-f1d4-4896-95e4-af7206d188b6",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2028-07-24",
+      "checkOut": "2028-07-25",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7581a033-004b-4d1f-b49f-2d2a8fec3ece",
+      "lastSynced": "2026-07-26T13:43:10.811Z"
+    },
+    {
+      "id": "0752051b-8782-4754-aaa3-4ad082d9d08c",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-07-26",
+      "checkOut": "2026-07-27",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "blocked",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-915dfa5e6c67744847d4166e3dc977a4@airbnb.com",
+      "lastSynced": "2026-07-26T13:43:11.635Z"
+    },
+    {
+      "id": "b3070458-2033-43ae-9b46-1a9c416fedb8",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-08-15",
+      "checkOut": "2026-08-17",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "blocked",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-62790305f81db1b570f91a7b16267db7@airbnb.com",
+      "lastSynced": "2026-07-26T13:43:11.635Z"
     }
   ],
   "blockedDates": [
@@ -677,5 +725,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-26T13:40:13.003Z"
+  "lastUpdated": "2026-07-29T13:20:14.106Z"
 }
