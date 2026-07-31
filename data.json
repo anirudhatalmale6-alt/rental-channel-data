@@ -695,6 +695,24 @@
       "email": "",
       "phone": "",
       "lastSynced": "2026-07-31T19:59:41.363Z"
+    },
+    {
+      "id": "ecc5ad8e-d09f-46bb-b481-cf4b3556f894",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Diack & Co",
+      "checkIn": "2026-08-16",
+      "checkOut": "2026-08-25",
+      "adults": 3,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-ecc5ad8e-d09f-46bb-b481-cf4b3556f894",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-07-31T20:03:56.002Z"
     }
   ],
   "blockedDates": [
@@ -727,5 +745,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-31T20:03:08.577Z"
+  "lastUpdated": "2026-07-31T20:03:58.555Z"
 }
