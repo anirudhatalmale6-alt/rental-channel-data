@@ -679,22 +679,6 @@
       "lastSynced": "2026-07-26T13:43:11.635Z"
     },
     {
-      "id": "b3070458-2033-43ae-9b46-1a9c416fedb8",
-      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
-      "propertyName": "LONGERE",
-      "guestName": "Airbnb (Not available)",
-      "checkIn": "2026-08-15",
-      "checkOut": "2026-08-17",
-      "adults": 0,
-      "children": 0,
-      "income": 0,
-      "currency": "EUR",
-      "channel": "airbnb",
-      "status": "blocked",
-      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-62790305f81db1b570f91a7b16267db7@airbnb.com",
-      "lastSynced": "2026-07-26T13:43:11.635Z"
-    },
-    {
       "id": "82c2015f-d039-4028-a0e6-301b39e1a318",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
@@ -743,5 +727,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-07-31T19:59:43.970Z"
+  "lastUpdated": "2026-07-31T20:03:08.577Z"
 }
