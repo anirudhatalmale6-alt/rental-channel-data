@@ -372,7 +372,12 @@
       "lastSynced": "2026-06-24T19:55:20.538Z",
       "email": "",
       "phone": "‪+33 7 67 48 43 01‬",
-      "checklist": []
+      "checklist": [
+        {
+          "label": "Infos sent",
+          "checked": true
+        }
+      ]
     },
     {
       "id": "82c2015f-d039-4028-a0e6-301b39e1a318",
@@ -695,5 +700,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-02T15:18:29.425Z"
+  "lastUpdated": "2026-08-05T08:26:01.653Z"
 }
