@@ -380,25 +380,7 @@
       ]
     },
     {
-      "id": "82c2015f-d039-4028-a0e6-301b39e1a318",
-      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
-      "propertyName": "LONGERE",
-      "guestName": "Diack & Co",
-      "checkIn": "2026-08-16",
-      "checkOut": "2026-07-25",
-      "adults": 3,
-      "children": 0,
-      "income": 0,
-      "currency": "EUR",
-      "channel": "manual",
-      "status": "confirmed",
-      "uid": "manual-82c2015f-d039-4028-a0e6-301b39e1a318",
-      "email": "",
-      "phone": "",
-      "lastSynced": "2026-07-31T19:59:41.363Z"
-    },
-    {
-      "id": "25ef6fd3-ac41-4e7e-908a-4eb3a1254c0c",
+      "id": "15874207-2c3a-42f5-a5e4-090d4df25292",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Simeon",
@@ -411,10 +393,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-f5c0bb87-c80e-4594-bc2e-625bfb1c6fe8",
-      "lastSynced": "2026-08-02T15:18:23.359Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z"
     },
     {
-      "id": "15f6872c-7703-40fb-bf27-bb29137f86dc",
+      "id": "b7761f89-42d0-48bd-b58e-00aa1a3631c6",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Jutta",
@@ -427,10 +409,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-058af166-ce91-4e73-b544-03c60a4d424e",
-      "lastSynced": "2026-08-02T15:18:23.359Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z"
     },
     {
-      "id": "32270cd3-0c23-42a2-a1e0-292e94118215",
+      "id": "f28bf0d3-ab47-4338-923f-a400226ad5b3",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "Reserved - Florence",
@@ -443,10 +425,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-4ca685c1-8f6e-4dae-b0e6-061ec30c5736",
-      "lastSynced": "2026-08-02T15:18:23.359Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z"
     },
     {
-      "id": "38a32799-12be-4465-93fe-9771de2d9ae5",
+      "id": "aecd0d1c-1bcc-447e-b871-899c5cd44691",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -459,10 +441,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-20212cc8-086f-43f1-a51f-21e000cd0673",
-      "lastSynced": "2026-08-02T15:18:23.359Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z"
     },
     {
-      "id": "f279b13b-fea5-4904-bf99-977252178422",
+      "id": "f1563e45-99a5-4882-83b0-8adef1743327",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -475,42 +457,26 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-59400cab-adb8-450f-8ee3-e5af48f6db2a",
-      "lastSynced": "2026-08-02T15:18:23.359Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z"
     },
     {
-      "id": "54f4d498-3078-493b-8c73-3660074202e9",
+      "id": "659ad81d-ca4a-4bd5-b4eb-d4f1e2f0e832",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
-      "guestName": "",
-      "checkIn": "2025-07-20",
-      "checkOut": "2025-08-02",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-08-11",
+      "checkOut": "2026-08-14",
       "adults": 0,
       "children": 0,
       "income": 0,
       "currency": "EUR",
-      "channel": "vrbo",
+      "channel": "airbnb",
       "status": "blocked",
-      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-c27fca25-af8b-462c-aaa5-ed1c9b3e3cd9",
-      "lastSynced": "2026-08-02T15:18:25.037Z"
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7f662ec65913-219eb08a4a479ca87569218d2582a3ca@airbnb.com",
+      "lastSynced": "2026-08-13T08:59:19.638Z"
     },
     {
-      "id": "a8550012-3d60-41a6-a60d-91f87ec20576",
-      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
-      "propertyName": "PM2",
-      "guestName": "Reserved - Friederike",
-      "checkIn": "2025-08-02",
-      "checkOut": "2025-08-09",
-      "adults": 0,
-      "children": 0,
-      "income": 0,
-      "currency": "EUR",
-      "channel": "vrbo",
-      "status": "confirmed",
-      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b3eed9f-a8da-4eee-9e2c-ff98bc6e86e0",
-      "lastSynced": "2026-08-02T15:18:25.037Z"
-    },
-    {
-      "id": "2837e716-d478-49df-9e0e-f9b5ecffd7f5",
+      "id": "9977ac28-c2c1-4ebe-8c91-c7e5c3da032b",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Christel",
@@ -523,10 +489,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-54edffeb-699b-4f69-ba07-d3688c4af741",
-      "lastSynced": "2026-08-02T15:18:25.037Z"
+      "lastSynced": "2026-08-13T08:59:20.048Z"
     },
     {
-      "id": "83164bf8-e6b0-43d7-8547-85ececf84664",
+      "id": "72db4e6e-aa8e-4419-a6ab-23ad68ed6d1e",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Wolfram",
@@ -539,10 +505,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b248888-44b3-45b3-bbc0-a6132cb923df",
-      "lastSynced": "2026-08-02T15:18:25.037Z"
+      "lastSynced": "2026-08-13T08:59:20.048Z"
     },
     {
-      "id": "bd1b3bba-7231-4d8c-9473-6d8152e049d9",
+      "id": "72071a1a-03de-429d-ac50-48e2da96942b",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "Reserved - Dagmar",
@@ -555,26 +521,58 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-91ab3f29-e760-49c6-9e56-640df0728c37",
-      "lastSynced": "2026-08-02T15:18:25.037Z"
+      "lastSynced": "2026-08-13T08:59:20.048Z"
     },
     {
-      "id": "af50fef3-4b57-44fe-87af-09ea696edbcd",
+      "id": "b5542ab3-591e-4bf5-b5b9-29cd93f1b781",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2028-07-30",
+      "checkOut": "2028-07-31",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-b506b528-1649-422a-92de-00a82bd4b926",
+      "lastSynced": "2026-08-13T08:59:20.049Z"
+    },
+    {
+      "id": "2801bb59-66e0-4565-bc1a-7040e3901e56",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Reserved",
+      "checkIn": "2026-08-17",
+      "checkOut": "2026-08-23",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "confirmed",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-1418fb94e984-1042ead6c55d21503b1af1118a515fc9@airbnb.com",
+      "lastSynced": "2026-08-13T08:59:20.758Z"
+    },
+    {
+      "id": "7d3389a3-7cc6-4c6d-bebe-3c1e3d247003",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Airbnb (Not available)",
-      "checkIn": "2026-08-02",
-      "checkOut": "2026-08-03",
+      "checkIn": "2026-08-13",
+      "checkOut": "2026-08-14",
       "adults": 0,
       "children": 0,
       "income": 0,
       "currency": "EUR",
       "channel": "airbnb",
       "status": "blocked",
-      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-69693b0531183735b1874afd8c804c71@airbnb.com",
-      "lastSynced": "2026-08-02T15:18:25.838Z"
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-8e73856aa74988c0ed85bf478b6210b0@airbnb.com",
+      "lastSynced": "2026-08-13T08:59:20.758Z"
     },
     {
-      "id": "88435824-ee50-4080-b1c2-e81dc09c52ba",
+      "id": "de2d8901-aa51-4531-bcfb-ecceab5003bc",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Airbnb (Not available)",
@@ -587,10 +585,10 @@
       "channel": "airbnb",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-62790305f81db1b570f91a7b16267db7@airbnb.com",
-      "lastSynced": "2026-08-02T15:18:25.838Z"
+      "lastSynced": "2026-08-13T08:59:20.758Z"
     },
     {
-      "id": "f7551ce1-f823-44d7-b5a4-8b4b9dd0f74f",
+      "id": "3ccfc90f-731c-47f6-9bdc-b0905d2bcbd1",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - paul",
@@ -603,10 +601,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-9093c437-fc86-437d-a847-d666b1217615",
-      "lastSynced": "2026-08-02T15:18:26.249Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z"
     },
     {
-      "id": "d945e7be-8463-4961-89e9-da52bfab3475",
+      "id": "334bc4a8-4487-45cf-afda-82a4fc38611a",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -619,10 +617,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-b0582ca4-f06e-49f8-8898-53a2a11472a3",
-      "lastSynced": "2026-08-02T15:18:26.249Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z"
     },
     {
-      "id": "00cd756a-3979-4444-afb6-fbba3080fc7a",
+      "id": "e9b93186-6a0b-404e-bd40-72458a8e9f4d",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Reserved - Barbara",
@@ -635,10 +633,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-47ff7ec1-8d19-4c73-9cbf-6857d129b5d9",
-      "lastSynced": "2026-08-02T15:18:26.249Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z"
     },
     {
-      "id": "7a6c433e-ba0a-481a-a209-acfe03f3db8b",
+      "id": "0f800b70-0e74-43ee-8f44-d739cfd308ec",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -651,10 +649,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-80679c27-ff50-4dca-8e1d-4d3aab30cb97",
-      "lastSynced": "2026-08-02T15:18:26.249Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z"
     },
     {
-      "id": "1a23cdac-cd58-4e16-b0d2-e8cf96451f5a",
+      "id": "2fcb390f-f654-4bb5-b23c-5054c4167442",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -667,7 +665,7 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-514fb31e-8a19-4ec4-a256-27fd391f1684",
-      "lastSynced": "2026-08-02T15:18:26.249Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z"
     }
   ],
   "blockedDates": [
@@ -700,5 +698,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-05T08:26:01.653Z"
+  "lastUpdated": "2026-08-13T09:01:09.501Z"
 }
