@@ -650,6 +650,24 @@
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-514fb31e-8a19-4ec4-a256-27fd391f1684",
       "lastSynced": "2026-08-13T08:59:21.175Z"
+    },
+    {
+      "id": "57d328a1-2b1c-4dce-a003-a9981d2f8748",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Nicolas Martin",
+      "checkIn": "2026-08-18",
+      "checkOut": "2026-08-25",
+      "adults": 2,
+      "children": 1,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-57d328a1-2b1c-4dce-a003-a9981d2f8748",
+      "email": "nicomartin1@live.fr",
+      "phone": "06 68 72 77 54",
+      "lastSynced": "2026-08-17T09:05:15.774Z"
     }
   ],
   "blockedDates": [
@@ -682,5 +700,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-17T09:02:53.767Z"
+  "lastUpdated": "2026-08-17T09:05:18.527Z"
 }
