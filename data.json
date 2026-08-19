@@ -674,10 +674,26 @@
           "checked": true
         },
         {
-          "label": "1000 to be paid",
-          "checked": false
+          "label": "1000 paid",
+          "checked": true
         }
       ]
+    },
+    {
+      "id": "eb67d214-0bab-47ad-8373-223267f465b5",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2028-08-15",
+      "checkOut": "2028-08-16",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-55140c37-7ebb-4925-9a83-d5c72a1e88f7",
+      "lastSynced": "2026-08-17T09:06:40.099Z"
     }
   ],
   "blockedDates": [
@@ -710,5 +726,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-17T09:06:16.369Z"
+  "lastUpdated": "2026-08-19T09:40:15.523Z"
 }
