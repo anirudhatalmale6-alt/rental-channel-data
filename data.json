@@ -50,16 +50,12 @@
       "channel": "manual",
       "status": "confirmed",
       "uid": "manual-7bc4f717-abcc-4fd9-897a-0b5fda855561",
-      "email": "terrones.valerie@gmail.com",
+      "email": "terrones.valerie",
       "phone": "",
       "lastSynced": "2026-03-20T18:11:20.058Z",
       "checklist": [
         {
-          "label": "contrat+ courrier+466€",
-          "checked": true
-        },
-        {
-          "label": "699 réglé ",
+          "label": "contrat+ courrier",
           "checked": true
         }
       ]
@@ -227,10 +223,6 @@
         {
           "label": "Contrat+courrier+892",
           "checked": true
-        },
-        {
-          "label": "1138 réglé ",
-          "checked": true
         }
       ]
     },
@@ -295,10 +287,6 @@
       "checklist": [
         {
           "label": "contrat-courrier-infos",
-          "checked": true
-        },
-        {
-          "label": "Vir 90€ + 600 à régler ",
           "checked": true
         }
       ]
@@ -694,6 +682,122 @@
       "status": "blocked",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-55140c37-7ebb-4925-9a83-d5c72a1e88f7",
       "lastSynced": "2026-08-17T09:06:40.099Z"
+    },
+    {
+      "id": "3c179ed5-3b0c-46b6-b8de-1b7123b767d6",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2025-07-20",
+      "checkOut": "2025-08-02",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-c27fca25-af8b-462c-aaa5-ed1c9b3e3cd9",
+      "lastSynced": "2026-05-30T09:09:00.254Z"
+    },
+    {
+      "id": "8f5118e9-d34d-4c0b-942c-9134e760e565",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "Reserved - Friederike",
+      "checkIn": "2025-08-02",
+      "checkOut": "2025-08-09",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "confirmed",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-7b3eed9f-a8da-4eee-9e2c-ff98bc6e86e0",
+      "lastSynced": "2026-05-30T09:09:00.254Z"
+    },
+    {
+      "id": "0f1c6ddf-2667-433d-9753-86a8a4a5a8ed",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-05-30",
+      "checkOut": "2026-05-31",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "blocked",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-263923f689a5281211f4167be855e1cf@airbnb.com",
+      "lastSynced": "2026-05-30T09:09:00.844Z"
+    },
+    {
+      "id": "b6de7dad-89d4-45bc-8ead-83ab2ccf847b",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "",
+      "checkIn": "2028-06-16",
+      "checkOut": "2028-06-23",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "vrbo",
+      "status": "blocked",
+      "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-e7cbcf5a-dc1c-45e3-b2dc-d04e81e9f04e",
+      "lastSynced": "2026-06-24T19:55:23.102Z"
+    },
+    {
+      "id": "099e4291-88ed-4ec8-b5ea-d64a7c3c3086",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Airbnb (Not available)",
+      "checkIn": "2026-06-24",
+      "checkOut": "2026-06-25",
+      "adults": 0,
+      "children": 0,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "airbnb",
+      "status": "blocked",
+      "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-03fbce00745f7e7e857117fb16da743d@airbnb.com",
+      "lastSynced": "2026-06-24T19:55:23.824Z"
+    },
+    {
+      "id": "6b558280-2380-4397-ae87-87c10a109ca0",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Guest",
+      "checkIn": "2026-08-18",
+      "checkOut": "2026-08-25",
+      "adults": 2,
+      "children": 3,
+      "income": 0,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-6b558280-2380-4397-ae87-87c10a109ca0",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-07-04T10:42:16.618Z"
+    },
+    {
+      "id": "1171daf3-0239-43a0-8fd5-bd862895af3b",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Didier Khalifat",
+      "checkIn": "2026-05-07",
+      "checkOut": "2026-05-13",
+      "adults": 4,
+      "children": 0,
+      "income": 700,
+      "currency": "EUR",
+      "channel": "blocked",
+      "status": "blocked",
+      "uid": "block-1171daf3-0239-43a0-8fd5-bd862895af3b",
+      "email": "",
+      "phone": "",
+      "checklist": []
     }
   ],
   "blockedDates": [
@@ -726,5 +830,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-19T09:40:15.523Z"
+  "lastUpdated": "2026-08-26T15:12:17.148Z"
 }
