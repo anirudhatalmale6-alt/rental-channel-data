@@ -757,6 +757,24 @@
       "email": "",
       "phone": "",
       "lastSynced": "2026-08-27T12:56:42.153Z"
+    },
+    {
+      "id": "aed9c85c-55ca-4e5c-bed6-036ced9ae36c",
+      "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
+      "propertyName": "LONGERE",
+      "guestName": "Valentin Duriez",
+      "checkIn": "2025-07-09",
+      "checkOut": "2025-07-15",
+      "adults": 2,
+      "children": 0,
+      "income": 672.4,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-aed9c85c-55ca-4e5c-bed6-036ced9ae36c",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-08-27T12:59:20.300Z"
     }
   ],
   "blockedDates": [
@@ -789,5 +807,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:56:45.417Z"
+  "lastUpdated": "2026-08-27T12:59:22.896Z"
 }
