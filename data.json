@@ -383,7 +383,7 @@
       "id": "15874207-2c3a-42f5-a5e4-090d4df25292",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
-      "guestName": "Reserved - Simeon",
+      "guestName": "Reserved - Simeon Brown",
       "checkIn": "2025-07-15",
       "checkOut": "2025-07-19",
       "adults": 0,
@@ -393,7 +393,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-f5c0bb87-c80e-4594-bc2e-625bfb1c6fe8",
-      "lastSynced": "2026-08-13T08:59:18.615Z"
+      "lastSynced": "2026-08-13T08:59:18.615Z",
+      "email": "",
+      "phone": "",
+      "checklist": []
     },
     {
       "id": "b7761f89-42d0-48bd-b58e-00aa1a3631c6",
@@ -845,5 +848,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:33:13.304Z"
+  "lastUpdated": "2026-08-27T12:34:40.309Z"
 }
