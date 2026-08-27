@@ -719,7 +719,8 @@
       "uid": "manual-5249ba98-9184-4c28-9243-a387faf6429d",
       "email": "",
       "phone": "",
-      "lastSynced": "2026-08-27T12:48:21.574Z"
+      "lastSynced": "2026-08-27T12:48:21.574Z",
+      "checklist": []
     }
   ],
   "blockedDates": [
@@ -752,5 +753,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:48:24.200Z"
+  "lastUpdated": "2026-08-27T12:49:09.910Z"
 }
