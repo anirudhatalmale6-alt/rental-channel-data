@@ -576,7 +576,7 @@
       "checklist": []
     },
     {
-      "id": "f9f637ef-b8e6-4def-a34f-1eec55df70a6",
+      "id": "39a4e83e-be72-45e5-9ad1-201bd16a534b",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -589,10 +589,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-20212cc8-086f-43f1-a51f-21e000cd0673",
-      "lastSynced": "2026-08-27T12:42:50.120Z"
+      "lastSynced": "2026-08-27T12:43:30.769Z"
     },
     {
-      "id": "42c2803c-ffd7-4c46-b426-be8dd3b6bd7c",
+      "id": "6bb11677-9f84-4ec0-835f-3b59ecf3df79",
       "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
       "propertyName": "PM1",
       "guestName": "",
@@ -605,10 +605,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "3caf3e60-215e-482a-a0a5-73b6e6781f26-59400cab-adb8-450f-8ee3-e5af48f6db2a",
-      "lastSynced": "2026-08-27T12:42:50.120Z"
+      "lastSynced": "2026-08-27T12:43:30.769Z"
     },
     {
-      "id": "dc489764-56a7-4544-9f5d-0ce3cf6fb9fa",
+      "id": "a6d97453-7276-444d-bac6-9a6f30e3c66e",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "",
@@ -621,10 +621,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-b506b528-1649-422a-92de-00a82bd4b926",
-      "lastSynced": "2026-08-27T12:42:51.752Z"
+      "lastSynced": "2026-08-27T12:43:32.303Z"
     },
     {
-      "id": "199ddada-1fe4-4554-935b-8898381c78a4",
+      "id": "0f864f96-3db7-41b1-86aa-d9e9bf526fb8",
       "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
       "propertyName": "PM2",
       "guestName": "",
@@ -637,10 +637,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "2fed483c-9c03-48b4-ac42-d22ba9de8326-d4eadaf4-213f-4344-b335-ab923f42dbdb",
-      "lastSynced": "2026-08-27T12:42:51.752Z"
+      "lastSynced": "2026-08-27T12:43:32.303Z"
     },
     {
-      "id": "abaf2ac0-347e-4670-9b90-84ee1b67d736",
+      "id": "30e57fd9-7ffe-4310-b09a-8b6b4093dcff",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "Airbnb (Not available)",
@@ -653,10 +653,10 @@
       "channel": "airbnb",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-7f662ec65913-cde101dfb8021e2cce1b076db6d4a8ed@airbnb.com",
-      "lastSynced": "2026-08-27T12:42:52.466Z"
+      "lastSynced": "2026-08-27T12:43:33.020Z"
     },
     {
-      "id": "be64b8c6-6863-4f6f-8ba0-5a602da40fb2",
+      "id": "227f8340-9332-4a76-af54-f959dccbf35b",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -669,10 +669,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-b0582ca4-f06e-49f8-8898-53a2a11472a3",
-      "lastSynced": "2026-08-27T12:42:52.877Z"
+      "lastSynced": "2026-08-27T12:43:33.634Z"
     },
     {
-      "id": "cc8f3d0f-e656-4fab-866b-ef7d736dd51a",
+      "id": "559e5964-b7fe-4b59-831a-2b18d7ed6975",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -685,10 +685,10 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-80679c27-ff50-4dca-8e1d-4d3aab30cb97",
-      "lastSynced": "2026-08-27T12:42:52.877Z"
+      "lastSynced": "2026-08-27T12:43:33.634Z"
     },
     {
-      "id": "23254e1e-9311-4805-8fd2-cef7832e3ad1",
+      "id": "cef85741-957c-4f14-a4e8-2f8c716ac4b3",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
       "guestName": "",
@@ -701,7 +701,7 @@
       "channel": "vrbo",
       "status": "blocked",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-514fb31e-8a19-4ec4-a256-27fd391f1684",
-      "lastSynced": "2026-08-27T12:42:52.878Z"
+      "lastSynced": "2026-08-27T12:43:33.634Z"
     }
   ],
   "blockedDates": [
@@ -734,5 +734,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:42:56.368Z"
+  "lastUpdated": "2026-08-27T12:43:36.759Z"
 }
