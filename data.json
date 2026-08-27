@@ -575,7 +575,7 @@
       "id": "3ccfc90f-731c-47f6-9bdc-b0905d2bcbd1",
       "propertyId": "abeceaac-25b6-40b6-bb1e-18ba0278608a",
       "propertyName": "LONGERE",
-      "guestName": "Reserved - paul",
+      "guestName": "Reserved - paul Poirier",
       "checkIn": "2025-08-03",
       "checkOut": "2025-08-10",
       "adults": 0,
@@ -585,7 +585,10 @@
       "channel": "vrbo",
       "status": "confirmed",
       "uid": "abeceaac-25b6-40b6-bb1e-18ba0278608a-9093c437-fc86-437d-a847-d666b1217615",
-      "lastSynced": "2026-08-13T08:59:21.175Z"
+      "lastSynced": "2026-08-13T08:59:21.175Z",
+      "email": "",
+      "phone": "",
+      "checklist": []
     },
     {
       "id": "334bc4a8-4487-45cf-afda-82a4fc38611a",
@@ -842,5 +845,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:32:19.725Z"
+  "lastUpdated": "2026-08-27T12:33:13.304Z"
 }
