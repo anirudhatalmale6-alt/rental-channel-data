@@ -739,6 +739,24 @@
       "email": "",
       "phone": "",
       "lastSynced": "2026-08-27T12:50:55.041Z"
+    },
+    {
+      "id": "62d8bd4f-3a07-441e-b5ad-9946a21173c4",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "Victor Ruin",
+      "checkIn": "2025-07-04",
+      "checkOut": "2025-07-07",
+      "adults": 0,
+      "children": 0,
+      "income": 296.67,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-62d8bd4f-3a07-441e-b5ad-9946a21173c4",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-08-27T12:56:42.153Z"
     }
   ],
   "blockedDates": [
@@ -771,5 +789,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:50:57.738Z"
+  "lastUpdated": "2026-08-27T12:56:45.417Z"
 }
