@@ -811,6 +811,24 @@
       "email": "",
       "phone": "",
       "lastSynced": "2026-08-27T13:04:46.848Z"
+    },
+    {
+      "id": "b627c41d-a2e7-4232-9ebe-efbf5c11c0a9",
+      "propertyId": "2fed483c-9c03-48b4-ac42-d22ba9de8326",
+      "propertyName": "PM2",
+      "guestName": "Volker Becker",
+      "checkIn": "2025-07-20",
+      "checkOut": "2025-08-02",
+      "adults": 2,
+      "children": 0,
+      "income": 1130,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-b627c41d-a2e7-4232-9ebe-efbf5c11c0a9",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-08-27T13:08:57.839Z"
     }
   ],
   "blockedDates": [
@@ -843,5 +861,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T13:04:49.598Z"
+  "lastUpdated": "2026-08-27T13:09:00.501Z"
 }
