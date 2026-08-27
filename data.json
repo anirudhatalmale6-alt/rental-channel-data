@@ -721,6 +721,24 @@
       "phone": "",
       "lastSynced": "2026-08-27T12:48:21.574Z",
       "checklist": []
+    },
+    {
+      "id": "3f06a6a5-3603-493a-a43e-08e2ea44df2d",
+      "propertyId": "3caf3e60-215e-482a-a0a5-73b6e6781f26",
+      "propertyName": "PM1",
+      "guestName": "Annie Pulloch",
+      "checkIn": "2025-08-19",
+      "checkOut": "2025-08-25",
+      "adults": 0,
+      "children": 0,
+      "income": 459.2,
+      "currency": "EUR",
+      "channel": "manual",
+      "status": "confirmed",
+      "uid": "manual-3f06a6a5-3603-493a-a43e-08e2ea44df2d",
+      "email": "",
+      "phone": "",
+      "lastSynced": "2026-08-27T12:50:55.041Z"
     }
   ],
   "blockedDates": [
@@ -753,5 +771,5 @@
       "id": "0358ff12-1629-43da-b2b3-5cdfcc56cac3"
     }
   ],
-  "lastUpdated": "2026-08-27T12:49:09.910Z"
+  "lastUpdated": "2026-08-27T12:50:57.738Z"
 }
